@@ -239,3 +239,14 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+
+#head1 {
+    background: linear-gradient(#00000055, #00000055),
+                url("bg_img1.png") center/cover no-repeat;
+    min-height: 450px;
+    padding: 40px 20px;
+    text-align: center;
+    color: white;
+}
+
